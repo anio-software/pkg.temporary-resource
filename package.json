@@ -1,6 +1,6 @@
 {
   "name": "@anio-software/pkg.temporary-resource",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "author": "Anio Software <info@anio.software>",
   "description": "Create temporary resources in web and node environments.",
