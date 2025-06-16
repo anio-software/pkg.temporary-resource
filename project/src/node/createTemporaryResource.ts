@@ -12,7 +12,7 @@ function cleanupHandler(
 
 	while (globalState.cleanupItems.length) {
 		const item = globalState.cleanupItems.shift()!
-		process.stderr.write(`cleaning ${item}`)
+
 		try {
 			fs.unlinkSync(item)
 		} catch {}
