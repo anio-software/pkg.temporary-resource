@@ -1,0 +1,18 @@
+{
+  "name": "@anio-software/pkg.temporary-resource",
+  "version": "0.0.0",
+  "type": "module",
+  "author": "Anio Software <info@anio.software>",
+  "description": "Create temporary resources in web and node environments.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-software/pkg.temporary-resource.git"
+  },
+  "devDependencies": {
+    "@anio-software/enkore": "^0.0.68",
+    "@anio-software/enkore.core": "^0.11.0",
+    "@anio-software/enkore.target-js": "^0.0.9-canary-32c188da-282c0489",
+    "@anio-software/pkg.is": "^0.0.2"
+  }
+}
